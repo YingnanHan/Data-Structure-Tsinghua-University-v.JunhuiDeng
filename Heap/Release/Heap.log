@@ -1,0 +1,35 @@
+﻿  源.cpp
+C:\Users\dosdiosas\Desktop\Heap\源.cpp(118,1): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\dosdiosas\Desktop\Heap\源.cpp(116): message : 在编译 类 模板 成员函数“Rank PQ_ComplHeap<T>::percolateDown(Rank,Rank)”时
+          with
+          [
+              T=int
+          ]
+C:\Users\dosdiosas\Desktop\Heap\源.cpp(135): message : 查看对正在编译的函数 模板 实例化“Rank PQ_ComplHeap<T>::percolateDown(Rank,Rank)”的引用
+          with
+          [
+              T=int
+          ]
+C:\Users\dosdiosas\Desktop\Heap\源.cpp(131): message : 在编译 类 模板 成员函数“void PQ_ComplHeap<T>::heapify(Rank)”时
+          with
+          [
+              T=int
+          ]
+C:\Users\dosdiosas\Desktop\Heap\源.cpp(52): message : 查看对正在编译的函数 模板 实例化“void PQ_ComplHeap<T>::heapify(Rank)”的引用
+          with
+          [
+              T=int
+          ]
+C:\Users\dosdiosas\Desktop\Heap\源.cpp(144): message : 查看对正在编译的 类 模板 实例化“PQ_ComplHeap<T>”的引用
+          with
+          [
+              T=int
+          ]
+C:\Users\dosdiosas\Desktop\Heap\源.cpp(142): message : 在编译 类 模板 成员函数“void Vector<int>::heapSort(Rank,Rank)”时
+C:\Users\dosdiosas\Desktop\Heap\源.cpp(162): message : 查看对正在编译的函数 模板 实例化“void Vector<int>::heapSort(Rank,Rank)”的引用
+C:\Users\dosdiosas\Desktop\Heap\源.cpp(154): message : 查看对正在编译的 类 模板 实例化“Vector<int>”的引用
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 36 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Heap.vcxproj -> C:\Users\dosdiosas\Desktop\Heap\Release\Heap.exe

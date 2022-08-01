@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\dosdiosas\Desktop\HashTable\源.cpp(278): warning C4715: “primeNLT”: 不是所有的控件路径都返回值
+  HashTable.vcxproj -> C:\Users\dosdiosas\Desktop\HashTable\Debug\HashTable.exe

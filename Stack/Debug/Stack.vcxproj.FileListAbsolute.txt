@@ -1,0 +1,2 @@
+C:\Users\dosdiosas\Desktop\Stack\Debug\Stack.exe
+C:\Users\dosdiosas\Desktop\Stack\Debug\Stack.pdb

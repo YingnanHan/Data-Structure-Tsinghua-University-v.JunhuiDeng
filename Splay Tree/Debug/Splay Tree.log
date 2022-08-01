@@ -1,0 +1,34 @@
+﻿  源.cpp
+C:\Users\dosdiosas\Desktop\Splay Tree\BinTree.h(54): error C3861: “print”: 找不到标识符
+C:\Users\dosdiosas\Desktop\Splay Tree\BinTree.h(54): message : “print”: 函数未在模板定义上下文中声明，只能通过实例化上下文中参数相关的查找找到
+C:\Users\dosdiosas\Desktop\Splay Tree\BinTree.h(47): message : 在编译 类 模板 成员函数“void Cleaner<T>::clean(T)”时
+          with
+          [
+              T=int
+          ]
+C:\Users\dosdiosas\Desktop\Splay Tree\BinTree.h(113): message : 查看对正在编译的函数 模板 实例化“void Cleaner<T>::clean(T)”的引用
+          with
+          [
+              T=int
+          ]
+C:\Users\dosdiosas\Desktop\Splay Tree\BinTree.h(113): message : 查看对正在编译的 类 模板 实例化“Cleaner<T>”的引用
+          with
+          [
+              T=int
+          ]
+C:\Users\dosdiosas\Desktop\Splay Tree\源.cpp(212): message : 查看对正在编译的函数 模板 实例化“void release<T>(T)”的引用
+          with
+          [
+              T=int
+          ]
+C:\Users\dosdiosas\Desktop\Splay Tree\源.cpp(176): message : 在编译 类 模板 成员函数“bool Splay<int>::remove(const T &)”时
+          with
+          [
+              T=int
+          ]
+C:\Users\dosdiosas\Desktop\Splay Tree\源.cpp(241): message : 查看对正在编译的函数 模板 实例化“bool Splay<int>::remove(const T &)”的引用
+          with
+          [
+              T=int
+          ]
+C:\Users\dosdiosas\Desktop\Splay Tree\源.cpp(225): message : 查看对正在编译的 类 模板 实例化“Splay<int>”的引用
